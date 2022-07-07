@@ -90,6 +90,7 @@ button:hover {
 
 .form__button:disabled {
 	background-color: var(--bg-color);
+	cursor: auto;
 }
 
 input {
